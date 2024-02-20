@@ -1,2 +1,1 @@
-# .github
-What's lisp-maintainers?
+The lisp-maintainers organization is a new house for orphan Lisp projects. With loose rules, we welcome any project. We don't aim at maintaining all of them ourselves, but we'll try to do it collectively -or bring them to your attention.
